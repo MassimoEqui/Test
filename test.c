@@ -2,7 +2,11 @@
 
 int main()
 {
+
 	int x;
-	 scanf("%d", &x);
-	 printf("%d\n", 2*x);
+	scanf("%d", &x);
+	printf("%d\n", 2*x);
+
+	printf("Hello World!\n");
+
 }
